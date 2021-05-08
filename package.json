@@ -12,7 +12,7 @@
     "@types/node": "12.7.2",
     "json-format": "1.0.1",
     "sqlite3": "4.1.0",
-    "typeorm": "0.2.18"
+    "typeorm": "0.2.25"
   },
   "devDependencies": {
     "typescript": "3.5.3",
